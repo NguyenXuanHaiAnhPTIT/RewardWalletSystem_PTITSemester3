@@ -7,19 +7,6 @@
 
 ***
 
-## 📋 Thành viên tham gia và phân công
-| Thành viên                                | Phân công công việc                                                                                                      | 
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-|:busts_in_silhouette: Nguyễn Minh Tuấn     | Thiết kế, xây dựng giao diện menu và quản lý luồng nghiệp vụ hệ thống                                                    | 
-|:busts_in_silhouette:Nguyễn Xuân Hải Anh   | Thiết lập, quản lý Git repository, cấu hình branch, merge code, xây dựng, quản lý tính bảo mật OTP và mã hóa mật khẩu    | 
-|:busts_in_silhouette: Phan Phúc Thịnh      | Thiết kế, phát triển và quản lý dữ liệu người dùng, ví, giao dịch                                                        | 
-|:busts_in_silhouette: Nguyễn Xuân Thanh    | Thiết kế chức năng sao lưu/khôi phục dữ liệu, thực hiện kiểm thử toàn diện, tối ưu hóa hiệu suất                         | 
-```bash
-https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits/main/
-```
-
-***
-
 ## 💼 Cấu trúc thư mục, mã nguồn và phân công
 
 ### 📂Cấu trúc thư mục, mã nguồn
@@ -51,7 +38,20 @@ https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits
 | Nguyễn Xuân Hải Anh        | OTPManager.h, OTPManager.cpp                           | 
 | Phan Phúc Thịnh            | UserAccount.h, UserAccount.cpp, Wallet.h, Wallet.cpp   | 
 | Nguyễn Xuân Thanh          | FileManager.h, FileManager.cpp                         | 
+***
 
+## 📋 Thành viên tham gia và phân công
+| Thành viên                                | Phân chia công việc                                                                                                      | 
+|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|:busts_in_silhouette: Nguyễn Minh Tuấn     | Thiết kế, xây dựng giao diện menu và quản lý luồng nghiệp vụ hệ thống                                                    | 
+|:busts_in_silhouette:Nguyễn Xuân Hải Anh   | Thiết lập, quản lý Git repository, cấu hình branch, merge code, xây dựng, quản lý tính bảo mật OTP và mã hóa mật khẩu    | 
+|:busts_in_silhouette: Phan Phúc Thịnh      | Thiết kế, phát triển và quản lý dữ liệu người dùng, ví, giao dịch                                                        | 
+|:busts_in_silhouette: Nguyễn Xuân Thanh    | Thiết kế chức năng sao lưu/khôi phục dữ liệu, thực hiện kiểm thử toàn diện, tối ưu hóa hiệu suất                         | 
+```bash
+https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits/main/
+```
+
+***
 
 ## 🔎 Phân tích và đặc tả chức năng
 ### 📌 1. Đăng ký tài khoản
