@@ -26,28 +26,28 @@ https://github.com/NguyenXuanThanhPTIT/https:/RewardWalletSystem_PTITSemester3/c
 
 │
 ├── include/  
-│   ├── UserAccount.h  
-│   ├── Wallet.h  
-│   ├── Transaction.h  
-│   ├── SystemManager.h  
-│   ├── OTPManager.h  
-│   └── FileManager.h  
+│-----├── UserAccount.h  
+│-----├── Wallet.h  
+│-----├── Transaction.h  
+│-----├── SystemManager.h  
+│-----├── OTPManager.h  
+│-----└── FileManager.h  
 │
 ├── sha256/  
-│   ├── Sha256.h  
-│   └── Sha256.cpp  
+│-----├── Sha256.h  
+│-----└── Sha256.cpp  
 │
 ├── src/  
-│   ├── UserAccount.cpp  
-│   ├── Wallet.cpp  
-│   ├── Transaction.cpp  
-│   ├── SystemManager.cpp  
-│   ├── OTPManager.cpp  
-│   ├── FileManager.cpp  
-│   └── main.cpp  
+│-----├── UserAccount.cpp  
+│-----├── Wallet.cpp  
+│-----├── Transaction.cpp  
+│-----├── SystemManager.cpp  
+│-----├── OTPManager.cpp  
+│-----├── FileManager.cpp  
+│-----└── main.cpp  
 │
 ├── tests/  
-│   └── ManualTestCases.md  
+│-----└── ManualTestCases.md  
 │
 └── README.md
 
