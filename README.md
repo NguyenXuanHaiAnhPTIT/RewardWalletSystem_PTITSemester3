@@ -23,9 +23,14 @@ https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits
 ## 📂 Cấu trúc thư mục và mã nguồn
 
 /RewardWalletSystem
-
+├── Data/  
+│-----├── Backup
+│-----------├── Transaction.log
+│-----------├── User
+│-----├── Transaction.log
+│-----├── User  
 │
-├── include/  
+├── Include/  
 │-----├── UserAccount.h  
 │-----├── Wallet.h  
 │-----├── Transaction.h  
@@ -33,11 +38,11 @@ https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits
 │-----├── OTPManager.h  
 │-----└── FileManager.h  
 │
-├── sha256/  
+├── Sha256/  
 │-----├── Sha256.h  
 │-----└── Sha256.cpp  
 │
-├── src/  
+├── Src/  
 │-----├── UserAccount.cpp  
 │-----├── Wallet.cpp  
 │-----├── Transaction.cpp  
@@ -46,7 +51,7 @@ https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits
 │-----├── FileManager.cpp  
 │-----└── main.cpp  
 │
-├── tests/  
+├── Tests/  
 │-----└── ManualTestCases.md  
 │
 └── README.md
