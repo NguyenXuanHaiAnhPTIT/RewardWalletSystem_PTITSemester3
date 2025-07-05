@@ -26,22 +26,22 @@ https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits
 
 | Chức năng                  | Nội dung chức năng                                                                                                                                           | 
 |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FileManager.h              | Khai báo các phương thức để quản lý việc đọc/ghi dữ liệu của người dùng, ví, và giao dịch, cũng như hỗ trợ sao lưu (backup) và phục hồi (restore) dữ liệu.   | 
-| OTPManager.h               | Khai báo các phương thức để sinh, quản lý, và xác thực mã OTP (One-Time Password) dùng cho các thao tác nhạy cảm trong hệ thống                              | 
-| SystemManager.h            | Khai báo các phương thức và thành phần để quản lý toàn bộ nghiệp vụ, giao diện, và luồng chương trình của hệ thống                                           | 
-| Transaction.h              | Khai báo cấu trúc và các phương thức để quản lý thông tin giao dịch chuyển điểm giữa các ví                                                                  | 
-| UserAccount.h              | Khai báo cấu trúc và các phương thức để quản lý thông tin tài khoản người dùng (bao gồm cả người dùng thông thường và admin)                                 | 
-| Wallet.h                   | Khai báo cấu trúc và các phương thức để quản lý thông tin ví điểm thưởng của người dùng hoặc admin.                                                          | 
-| FileManager.cpp            | Quản lý hoạt động nhập, xuất dữ liệu gồm người dùng, ví, giao dịch và sao lưu/phục hồi dữ liệu                                                               | 
-| Main.cpp                   | Khởi tạo SystemManager và gọi MainMenu                                                                                                                       | 
-| OTPManager.cpp             | Quản lý việc tạo, xác thực và xử lý mã OTP (One-Time Password) với thời gian hiệu lực giới hạn                                                               | 
-| SystemManager.cpp          | Quản lý toàn bộ nghiệp vụ, giao diện, và luồng chương trình của hệ thống                                                                                     | 
-| Transaction.cpp            | Định nghĩa và xử lý các thông tin liên quan đến một giao dịch trong hệ thống                                                                                 | 
-| UserAccount.cpp            | Định nghĩa và quản lý thông tin tài khoản người dùng                                                                                                         | 
-| Wallet.cpp                 | Định nghĩa và quản lý thông tin ví người dùng                                                                                                                |
-| admin.dat                  | File lưu trữ thông tin admin                                                                                                                      |
-| user.dat                   | Dạng file lưu trữ thông tin người dùng                                                                                                                       |         
-| transaction_log.txt        | Lưu trũ các bản ghi giao dịch trong hệ thống, mỗi dòng tương ứng với 1 giao dịch                                                                             | 
+| `FileManager.h`             | Khai báo các phương thức để quản lý việc đọc/ghi dữ liệu của người dùng, ví, và giao dịch, cũng như hỗ trợ sao lưu (backup) và phục hồi (restore) dữ liệu.   | 
+| `OTPManager.h`               | Khai báo các phương thức để sinh, quản lý, và xác thực mã OTP (One-Time Password) dùng cho các thao tác nhạy cảm trong hệ thống                              | 
+| `SystemManager.h`            | Khai báo các phương thức và thành phần để quản lý toàn bộ nghiệp vụ, giao diện, và luồng chương trình của hệ thống                                           | 
+| `Transaction.h`             | Khai báo cấu trúc và các phương thức để quản lý thông tin giao dịch chuyển điểm giữa các ví                                                                  | 
+| `UserAccount.h`              | Khai báo cấu trúc và các phương thức để quản lý thông tin tài khoản người dùng (bao gồm cả người dùng thông thường và admin)                                 | 
+| `Wallet.h`                   | Khai báo cấu trúc và các phương thức để quản lý thông tin ví điểm thưởng của người dùng hoặc admin.                                                          | 
+| `FileManager.cpp`            | Quản lý hoạt động nhập, xuất dữ liệu gồm người dùng, ví, giao dịch và sao lưu/phục hồi dữ liệu                                                               | 
+| `Main.cpp`                   | Khởi tạo SystemManager và gọi MainMenu                                                                                                                       | 
+| `OTPManager.cpp`             | Quản lý việc tạo, xác thực và xử lý mã OTP (One-Time Password) với thời gian hiệu lực giới hạn                                                               | 
+| `SystemManager.cpp`          | Quản lý toàn bộ nghiệp vụ, giao diện, và luồng chương trình của hệ thống                                                                                     | 
+| `Transaction.cpp`            | Định nghĩa và xử lý các thông tin liên quan đến một giao dịch trong hệ thống                                                                                 | 
+| `UserAccount.cpp`            | Định nghĩa và quản lý thông tin tài khoản người dùng                                                                                                         | 
+| `Wallet.cpp`                 | Định nghĩa và quản lý thông tin ví người dùng                                                                                                                |
+| `admin.dat`                  | File lưu trữ thông tin admin                                                                                                                      |
+| `user.dat`                   | Dạng file lưu trữ thông tin người dùng                                                                                                                       |         
+| `transaction_log.txt`        | Lưu trũ các bản ghi giao dịch trong hệ thống, mỗi dòng tương ứng với 1 giao dịch                                                                             | 
 
 ### 👥 Phân công
 
