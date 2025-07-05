@@ -15,7 +15,7 @@
 |:busts_in_silhouette: Phan Phúc Thịnh      |Thiết kế, phát triển và quản lý dữ liệu người dùng, ví, giao dịch. | 
 |:busts_in_silhouette: Nguyễn Xuân Thanh    |Thiết kế chức năng sao lưu/khôi phục dữ liệu, thực hiện kiểm thử toàn diện, tối ưu hóa hiệu suất. | 
 ```bash
-https://github.com/NguyenXuanThanhPTIT/https:/RewardWalletSystem_PTITSemester3/commit/master/
+https://github.com/NguyenXuanHaiAnhPTIT/RewardWalletSystem_PTITSemester3/commits/main/
 ```
 
 ***
